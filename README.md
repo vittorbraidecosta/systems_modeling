@@ -1,4 +1,4 @@
-# About the Repo 
+# About the repo 
 *Created on 2023.1* | This repo accommodates a work developed by 4 students from the University of São Paulo. The main goal was to build a mathematical model of the planar movement of an Autonomous Underwater Vehicle (AUV) in state space representation. Afterward, a control system was developed using modern and classical approaches with didactic purposes. 
 
 Therefore, the repo contains all codes built in Matlab and Mathematica and also a report that documents all stages. As it was developed to a lecture in São Paulo, it is written in Portuguese.
